@@ -32,5 +32,5 @@ I am a software engineering student based in Sri Lanka, currently studying at th
 </p>
 
 #### Featured Projects
-* **Thogakade POS System:** A Point-of-Sale management system built with Java and MySQL to handle inventory and track transactions efficiently.
+* **BookRental POS System:** A Point-of-Sale management system built with Java and MySQL to handle inventory and track transactions efficiently.
 * **Weather Forecast App:** A dynamic web application utilizing HTML, CSS, and JavaScript to fetch and display real-time weather data.
